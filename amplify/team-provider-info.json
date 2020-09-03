@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-matsuokrockspajam202-dev-70753-authRole",
+      "UnauthRoleArn": "arn:aws:iam::140499885936:role/amplify-matsuokrockspajam202-dev-70753-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::140499885936:role/amplify-matsuokrockspajam202-dev-70753-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-matsuokrockspajam202-dev-70753-deployment",
+      "UnauthRoleName": "amplify-matsuokrockspajam202-dev-70753-unauthRole",
+      "StackName": "amplify-matsuokrockspajam202-dev-70753",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:140499885936:stack/amplify-matsuokrockspajam202-dev-70753/3c9fe730-edb4-11ea-9c27-0eacdea392fe",
+      "AmplifyAppId": "dea60yikadoym"
+    }
+  }
+}

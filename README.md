@@ -11,6 +11,7 @@
 ## Installation
 
 - Amplify CLI
+- Amplify libraries
 
 
 ### AmplifyCLI
@@ -51,6 +52,11 @@ This would update/create the AWS Profile in your local machine
 
 Successfully set up the new user.
 ```
+## Amplify libraries
+```
+npm install aws-amplify aws-amplify-react-native @react-native-community/netinfo
+```
+
 
 ## Usage
 ### ReactNative
